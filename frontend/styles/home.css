@@ -1,0 +1,12 @@
+
+.chatHeader {
+    margin: auto;
+}
+
+.body {
+    overflow-y: auto;
+}
+
+.footer {
+    padding: 0 5px;
+}
